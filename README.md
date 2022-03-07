@@ -1,1 +1,2 @@
 # odin-recipes
+The current project is an attempt to create a recipes webpage utilizing skills learned in the odin project. Skills demonstrated will include, establishing an html boilerplate, placing links and images into a webpage, generating lists, and committing to github.
