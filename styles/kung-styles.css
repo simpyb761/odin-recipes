@@ -1,0 +1,24 @@
+body{
+    background-color: aquamarine;
+}
+img{
+    height: auto;
+    width: 600px;
+}
+h1{
+    text-align: center;
+    color: magenta;
+    margin-top: 50px;
+}
+table, td{
+    border:1px solid;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+    text-align: center;
+}
+.directory{
+    text-align: center;
+    color: fuchsia;
+    font-size: x-large;
+}

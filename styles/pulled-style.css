@@ -1,0 +1,40 @@
+h1 {
+    color: hsl(310, 100%, 50%);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-bottom: 50px;
+    }
+img {
+    height: auto;
+    width: 600px;
+}
+.Photo-Credit{
+    font-size: 9px;
+    margin-left: 500px;
+    margin-top: -5px;
+}
+h2 {
+    color: hsl(310, 100%, 50%);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+body{
+    background-color: aqua;
+    margin-top: 50px;
+}
+table, td{
+    border:1px solid;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 450px;
+}
+.directory{
+    text-align: center;
+    color: firebrick;
+    font-size: x-large;
+    margin-top: 100px;
+}
+.ordered{
+    margin-bottom: 10px;
+}
