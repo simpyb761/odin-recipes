@@ -1,0 +1,27 @@
+table .breakfast{
+    width: fit-content;
+    color: antiquewhite;
+    padding: 50px;
+}
+.chicken{
+    width: fit-content;
+    padding: 50px;
+    margin: auto;
+}
+.pork{
+    width: fit-content;
+    padding: 50px;
+}
+body{
+    background-color: aqua;
+}
+h1{
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+}
+img{
+    width: 1000px;
+    height: auto;
+    text-align: center;
+}
